@@ -17,35 +17,17 @@ Interested in backend architecture, APIs, and scalable web applications.
 
 ## 🛠 Tech Stack
 
-### Backend (Node.js)
-- Node.js
-- Express
-- NestJS
-- REST API
-- JWT
-
-### Backend (.NET)
-- C#
-- .NET
-- ASP.NET Core
-- Web API
-- Entity Framework (basic knowledge)
+### Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,cs,dotnet)
 
 ### Databases
-- Oracle
-- Microsoft SQL Server
-- MongoDB
-- Redis
+![DB](https://skillicons.dev/icons?i=mongodb,redis,mysql)
 
 ### Frontend
-- JavaScript
-- TypeScript
-- React
+![Frontend](https://skillicons.dev/icons?i=react,redux,ts,js)
 
-### DevOps & Tools
-- Docker
-- Nginx
-- Git
+### DevOps
+![DevOps](https://skillicons.dev/icons?i=docker,nginx,git)
 
 ---
 
@@ -63,15 +45,20 @@ Interested in backend architecture, APIs, and scalable web applications.
 
 ## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Artjoeee&style=flat-square)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Artjoeee&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artjoeee&layout=compact&hide_border=true)
 
 ---
 
 ## 📫 Contact Me
 
-- Telegram: @Artjoeee
-- Email: artzham04022005@gmail.com
+<a href="https://t.me/Artjoeee">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" height="40"/>
+</a>
+
+<a href="mailto:artzham04022005@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+</a>
