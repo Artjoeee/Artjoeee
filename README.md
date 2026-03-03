@@ -55,3 +55,5 @@ Interested in backend architecture, APIs, and scalable web applications.
 [![Telegram](https://img.shields.io/badge/Telegram-@Artjoeee-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artjoeee)
 
 [![Email](https://img.shields.io/badge/Email-artzham04022005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artzham04022005@gmail)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artsiom%20Zhamoida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artsiom-zhamoida-a36a463b4/)
