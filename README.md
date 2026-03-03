@@ -47,9 +47,7 @@ Interested in backend architecture, APIs, and scalable web applications.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Artjoeee&style=flat-square)
 
-![GitHub Stats](https://githubreadmestatsfast.vercel.app/api?username=Artjoeee&show_icons=true)
-
-![Top Languages](https://githubreadmestatsfast.vercel.app/api/top-langs/?username=Artjoeee&layout=compact)
+![My GitHub Stats](https://animated-profile-stats.vercel.app/api/card?username=Artjoeee&type=fire)
 
 ---
 
