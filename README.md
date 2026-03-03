@@ -21,7 +21,8 @@ Interested in backend architecture, APIs, and scalable web applications.
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,cs,dotnet)
 
 ### Databases
-![DB](https://skillicons.dev/icons?i=mongodb,redis,mysql,oracle)
+![DB](https://skillicons.dev/icons?i=mongodb,redis,mysql)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48"/>
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=react,ts,js)
