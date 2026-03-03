@@ -21,10 +21,10 @@ Interested in backend architecture, APIs, and scalable web applications.
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,cs,dotnet)
 
 ### Databases
-![DB](https://skillicons.dev/icons?i=mongodb,redis,mysql)
+![DB](https://skillicons.dev/icons?i=mongodb,redis,mysql,oracle)
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,redux,ts,js)
+![Frontend](https://skillicons.dev/icons?i=react,ts,js)
 
 ### DevOps
 ![DevOps](https://skillicons.dev/icons?i=docker,nginx,git)
