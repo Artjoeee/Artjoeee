@@ -47,18 +47,14 @@ Interested in backend architecture, APIs, and scalable web applications.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Artjoeee&style=flat-square)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Artjoeee&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Artjoeee)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artjoeee&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artjoeee)
 
 ---
 
 ## 📫 Contact Me
 
-<a href="https://t.me/Artjoeee">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" height="40"/>
-</a>
+[![Telegram](https://img.shields.io/badge/Telegram-@Artjoeee-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artjoeee)
 
-<a href="mailto:artzham04022005@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-artzham04022005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
