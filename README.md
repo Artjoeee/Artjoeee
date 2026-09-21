@@ -1,7 +1,7 @@
 # Hi 👋 I'm Artjoeee
 
-🎓 3rd year Software Engineering student  
-💻 Backend Developer (Node.js / .NET)  
+🎓 4rd year Software Engineering student  
+💻 Backend Developer (Node.js)  
 📍 Minsk, Belarus  
 
 ---
